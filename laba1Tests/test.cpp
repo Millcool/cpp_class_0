@@ -3,7 +3,10 @@
 #include <cmath>
 #include "../StaticLib1/cisoidadiokla.h"
 
-
+int main(int argc, char* argv[]) {
+	::testing::InitGoogleTest(&argc, argv);
+	return RUN_ALL_TESTS();
+}
 TEST(CisoidaDioklaConstructors, Get) 
 {
 	CisoidaDiokla Krivaya(5,6,7);
