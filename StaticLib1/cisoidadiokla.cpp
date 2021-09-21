@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "CisoidaDiokla.h"
+#include "cisoidadiokla.h"
 #include <cmath>
 float CisoidaDiokla::printypox() const
 {

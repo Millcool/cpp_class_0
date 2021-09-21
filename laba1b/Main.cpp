@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "../StaticLib1/CisoidaDiokla.h"
+#include "../StaticLib1/cisoidadiokla.h"
 int main()
 {
     float a, x, angle;
